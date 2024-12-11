@@ -1,6 +1,6 @@
 该项目的作用
 
-Centos7.9及银河麒麟V10 SP3下一键更新ssh及openssl
+Centos7.9及银河麒麟V10 SP3下一键更新ssh及openssl，目前ssh更新到9.9p1，OpenSSL更新到3.4.0 22 Oct 2024。
 
 该项目为何有用
 
